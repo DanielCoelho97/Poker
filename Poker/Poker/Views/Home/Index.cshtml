@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Poker.Models.ResultadoJogo
+
+<h1 class="CartasEsquerda">@Html.DisplayFor(model => model.jogador1) </h1>
+<h1 class="CartasEsquerda">@Html.DisplayFor(model => model.nomesCartasJogador1[4]) </h1>
+<h1 class="CartasEsquerda">@Html.DisplayFor(model => model.nomesCartasJogador1[3]) </h1>
+<h1 class="CartasEsquerda">@Html.DisplayFor(model => model.nomesCartasJogador1[2]) </h1>
+<h1 class="CartasEsquerda">@Html.DisplayFor(model => model.nomesCartasJogador1[1]) </h1>
+<h1 class="CartasEsquerda">@Html.DisplayFor(model => model.nomesCartasJogador1[0]) </h1>
+<h1 class="CartasEsquerda" style="color : black">@Html.DisplayFor(model => model.nomeMaoJogador1) </h1>
+
+<h1 class="Resultado">@Html.DisplayFor(model => model.resultado) </h1>
+
+<h1 class="CartasDireita" style="color : black;">@Html.DisplayFor(model => model.nomeMaoJogador2) </h1>
+<h1 class="CartasDireita">@Html.DisplayFor(model => model.nomesCartasJogador2[0]) </h1>
+<h1 class="CartasDireita">@Html.DisplayFor(model => model.nomesCartasJogador2[1]) </h1>
+<h1 class="CartasDireita">@Html.DisplayFor(model => model.nomesCartasJogador2[2]) </h1>
+<h1 class="CartasDireita">@Html.DisplayFor(model => model.nomesCartasJogador2[3]) </h1>
+<h1 class="CartasDireita" style="">@Html.DisplayFor(model => model.nomesCartasJogador2[4]) </h1>
+<h1 class="CartasDireita" style="">@Html.DisplayFor(model => model.jogador2) </h1>
+
+<form method="post">
+    <button type="submit" class="Botao" >apostar</button>
+</form>

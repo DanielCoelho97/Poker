@@ -1,0 +1,11 @@
+C:\Users\daniel\Poker\Poker\bin\Debug\netcoreapp2.0\Poker.deps.json
+C:\Users\daniel\Poker\Poker\bin\Debug\netcoreapp2.0\Poker.runtimeconfig.json
+C:\Users\daniel\Poker\Poker\bin\Debug\netcoreapp2.0\Poker.runtimeconfig.dev.json
+C:\Users\daniel\Poker\Poker\bin\Debug\netcoreapp2.0\Poker.dll
+C:\Users\daniel\Poker\Poker\bin\Debug\netcoreapp2.0\Poker.pdb
+C:\Users\daniel\Poker\Poker\obj\Debug\netcoreapp2.0\Poker.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Poker\Poker\obj\Debug\netcoreapp2.0\Poker.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Poker\Poker\obj\Debug\netcoreapp2.0\Poker.AssemblyInfoInputs.cache
+C:\Users\daniel\Poker\Poker\obj\Debug\netcoreapp2.0\Poker.AssemblyInfo.cs
+C:\Users\daniel\Poker\Poker\obj\Debug\netcoreapp2.0\Poker.dll
+C:\Users\daniel\Poker\Poker\obj\Debug\netcoreapp2.0\Poker.pdb
